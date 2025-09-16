@@ -41,7 +41,8 @@ including open-source specifications, SDKs, server implementations, utilities, a
 * [Java](https://github.com/opentool-hub/opentool-java) - Java SDK for OpenTool client and server, including OpenTool JSON Parser
 * [TypeScript](https://github.com/opentool-hub/opentool-typescript) - A TypeScript client and server SDK for OpenTool with JSON Spec Parser.
 * [Dart](https://github.com/opentool-hub/opentool-dart) - Dart SDK for OpenTool client and server, including OpenTool JSON parser.
-* [C# .NET Framework](https://github.com/opentool-hub/opentool-csharp) - The OpenTool SDK for .NET Framework supports Tool Server and Client communication over the JSON-RPC protocol, implementing the core capabilities defined in the OpenTool specification.
+* [C# .NET](https://github.com/opentool-hub/opentool-csharp-net) 8 or Later - The OpenTool SDK for .NET supports Tool Server and Client communication over the JSON-RPC protocol, implementing the core capabilities defined in the OpenTool specification.
+* [C# .NET Framework](https://github.com/opentool-hub/opentool-csharp-netfx) 4.8.1 - The OpenTool SDK for .NET Framework supports Tool Server and Client communication over the JSON-RPC protocol, implementing the core capabilities defined in the OpenTool specification.
 * [LabVIEW](https://github.com/opentool-hub/opentool-labview) - The OpenTool LabVIEW SDK is used to implement an OpenTool Server within LabVIEW applications.
 
 ---

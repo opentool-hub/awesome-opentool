@@ -11,9 +11,9 @@
     - [📚 文档](#-文档)
     - [📦 SDK](#-sdk)
     - [🛠 OpenTool Servers (Tools)](#-opentool-servers-tools)
-        - [1. 直接可用类](#1-直接可用类)
-        - [2. 协议转换类](#2-协议转换类)
-        - [3. 请求转发类](#3-请求转发类需要配置业务函数的opentool-json描述文件)
+        - [1. 直接可用类](#直接可用类)
+        - [2. 协议转换类](#协议转换类)
+        - [3. 请求转发类](#请求转发类需要配置业务函数的opentool-json描述文件)
     - [⚙️ 管理工具](#-管理工具)
 
 ---
@@ -36,7 +36,8 @@
 - [Java](https://github.com/opentool-hub/opentool-java) - OpenTool client和sever的Java SDK,并连带OpenTool JSON的Parser
 - [TypeScript](https://github.com/opentool-hub/opentool-typescript) - OpenTool 的 TypeScript 客户端和服务端 SDK，提供 JSON 规范解析器。
 - [Dart](https://github.com/opentool-hub/opentool-dart) - OpenTool的client和server的Dart SDK，并连带OpenTool JSON的Parser
-- [C# .NET Framework](https://github.com/opentool-hub/opentool-csharp) - OpenTool 的 .NET Framework SDK，支持 JSON-RPC 协议的 Tool Server 与 Client，实现了 OpenTool 规范中的核心能力。
+- [C# .NET](https://github.com/opentool-hub/opentool-csharp-net) 8 或更高版本 - OpenTool 的 .NET SDK，支持 JSON-RPC 协议的 Tool Server 与 Client，实现了 OpenTool 规范中的核心能力。
+- [C# .NET Framework](https://github.com/opentool-hub/opentool-csharp-netfx) 4.8.1 - OpenTool 的 .NET Framework SDK，支持 JSON-RPC 协议的 Tool Server 与 Client，实现了 OpenTool 规范中的核心能力。
 - [LabVIEW](https://github.com/opentool-hub/opentool-labview) - OpenTool的LabVIEW SDK，用于LabVIEW应用程序中实现OpenTool Server。
 
 ### 🛠 OpenTool Servers (Tools)
